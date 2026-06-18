@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("anh.jpg")
+st.image("2aOboQeLv0dJdnb3vOIwv9YRev1NKMFPKxAvZgUS.jpg")
 # 1. Cấu hình giao diện ứng dụng
 st.set_page_config(page_title="App Tính Thu Nhập Cá Nhân", page_icon="💰", layout="centered")
 st.title("💰 Ứng Dụng Tính Thuế TNCN & Lương Thực Nhận")
